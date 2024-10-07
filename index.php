@@ -1,0 +1,1 @@
+<!-- this is my entry file of wordpress theme -->
