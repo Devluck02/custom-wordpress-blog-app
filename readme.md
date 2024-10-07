@@ -1,0 +1,1 @@
+# fully customize wordpress theme from scratch
